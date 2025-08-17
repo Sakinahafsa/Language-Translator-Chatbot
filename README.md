@@ -17,3 +17,12 @@ Translates the input text using Google’s Gemini 1.5 Flash model via API.
 
 🔊 Text-to-Speech (TTS)
 The translated text is converted to speech using Google TTS and played directly in the browser.
+
+<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/8481f08b-aa12-49ba-950d-a27c3ca28a8f" />
+
+<img width="960" height="543" alt="image" src="https://github.com/user-attachments/assets/ae20b614-6abd-49c4-bfa2-b408d31123ae" />
+
+
+
+
+
